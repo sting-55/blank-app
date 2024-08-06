@@ -1,0 +1,220 @@
+
+    {
+        "id": 1,
+        "chapter": "Key Points when Answering Questions",
+        "prompts": [
+            "Link the answer back to the question.",
+            "Read the question carefully. If it asks for one difference, or one characteristic, etc. keep your answer to describe just one point.",
+            "Provide clear reasons based on the key concepts.",
+            "To explain the concept, the child needs to understand the concept completely. What is understanding concept?",
+            "Explain clearly, use key descriptive words and do not skip steps.",
+            "Explain how water droplets are formed after placing the above setup in the open field for a few hours.",
+            "Answer by students: The water vapour loses heat and condenses to form water droplets.",
+            "Unfortunately, the answer does not give the child full marks. Two mistakes with the above answer: Mistake 1: The student has skipped steps. The question set-up starts off with liquid water. The student should write, “Water gains heat from the sun and evaporates into water vapour” before proceeding to write condensation process. Mistake 2: The student did not mention where the water vapour will condense on. Is it the inner or outer surface? And on which surface?"
+        ]
+    },
+    {
+        "id": 2,
+        "chapter": "Study Notes: Chapter 1 - Classifying Things",
+        "prompts": [
+            "What is Classification? Classification is the process of organizing things into groups based on their characteristics.",
+            "Why Do We Classify Things? To manage the vast number of items around us by showing similarities and differences. To better understand and relate new discoveries to existing knowledge. To organize and identify items in a more orderly way.",
+            "How Can We Classify Things? Using diagrams or tables. Grouping based on similarities in size, pattern, color, shape, and other characteristics. Examples include classifying items by color, size, shape, and other distinguishing features.",
+            "Examples of Classification: Living and non-living things: Classifying animals, plants, and non-living objects based on their life characteristics. Grouping fruits based on the number of seeds or the texture of their skin.",
+            "These concepts help in understanding and organizing the world around us by systematically grouping items with similar traits."
+        ]
+    },
+    {
+        "id": 3,
+        "chapter": "Study Notes: Chapter 2 - Living Things and Non-Living Things",
+        "prompts": [
+            "Characteristics of Living Things: Living things grow, move, reproduce, respond to stimuli, and need food, water, and air to survive. Examples include animals, plants, fungi, and bacteria.",
+            "Characteristics of Non-Living Things: Non-living things do not grow, move on their own, reproduce, or respond to stimuli. They do not need food, water, or air. Examples include rocks, water, and man-made objects like toys and furniture.",
+            "Importance of Classification: Helps in understanding and organizing the world by grouping items with similar characteristics. Makes it easier to study and identify living and non-living things.",
+            "These key concepts help in differentiating and categorizing the vast array of objects and organisms in our environment."
+        ]
+    },
+    {
+        "id": 4,
+        "chapter": "Study Notes: Chapter 3 - Plants",
+        "prompts": [
+            "Characteristics of Plants: Living Things: Plants need air, food, and water to survive. Self-Feeding: Plants make their own food through photosynthesis (fungi cannot make their own food). Variety: Plants come in different shapes, sizes, and colors. Diversity: There are many kinds of plants around us.",
+            "Useful Plants: Provide food, medicines, materials, and shelter (e.g., rice plant, oak tree, rubber tree). Harmful Plants: Some plants can cause injuries or rashes (e.g., cactus spines, sap from dumbcane). Weeds: Compete with useful plants for resources (e.g., lalang, mimosa).",
+            "Where Can Plants Grow? Common Locations: Gardens, ponds, forests, rivers, fields. Unusual Locations: Roofs, walls, drains, other plants.",
+            "Classification by Location: Land Plants: Grow on land (e.g., trees, buildings, walls, grounds, drains). Water Plants: Grow in water (e.g., ponds, lakes, rivers).",
+            "How Can We Classify Plants? Two Main Groups: Flowering plants and non-flowering plants. Flowering Plants: Produce flowers (e.g., hibiscus, mango, orchid, banana, chilli). Flowering Time: Some flower throughout the year (e.g., balsam, bougainvillea). Some flower only at certain times (e.g., some cherry trees). Fruit Production: Flowers can develop into fruits that contain seeds.",
+            "Non-Flowering Plants: Do not produce flowers (e.g., ferns, mosses).",
+            "Different Parts of a Plant: Roots: Usually found underground; some are above ground (e.g., mangrove trees). Stems: Usually above ground; some are underground (e.g., onion plant). Leaves: Vary in shape, color, and size. Flowers: Only on flowering plants; vary in shape, color, and size. Fruits: Only on flowering plants; vary in shape, size, taste; some are edible, others are not.",
+            "Open-Ended Questions: Similarity between Plants A and B: Both have strong stems, leaves, or flowers. Difference between Plants A and B: Plant A grows in water, while Plant B grows on land.",
+            "Label the Parts of the Plant: Leaf, Fruit, Flower, Stem, Root."
+        ]
+    },
+    {
+        "id": 5,
+        "chapter": "Study Notes: Chapter 4 - Animals",
+        "prompts": [
+            "How Are Animals Similar or Different? Variety: Different types of animals like cats, fish, birds, and insects. Differences and Similarities: Animals can differ or be similar in appearance, body coverings, and reproduction.",
+            "Differences in Colors, Shapes, and Sizes: Color: Animals have different colors; some have more than one color (e.g., zebras are white and black, cheetahs are orange with black spots). Shape: Animals have different body shapes (e.g., giraffes and tigers have different shapes; tigers and cats have similar shapes but different sizes). Size: Animals vary in size (e.g., ants are smaller than cats, and cats are smaller than elephants).",
+            "Differences in Body Coverings: Hair: Keeps animals warm, protects from injuries (e.g., dogs, foxes, bears). Scales: Protects from injuries and predators (e.g., crocodiles, goldfish, lizards). Feathers: Keeps birds warm, helps them fly (e.g., crows, eagles, parrots). Shells: Protects from injuries and predators (e.g., crabs, lobsters, snails). No Covering: Some animals like octopuses, frogs, and earthworms have no outer covering.",
+            "Differences in Reproduction: Egg-Laying: Some animals lay eggs (e.g., geese, crocodiles, chickens). Live Birth: Some animals give birth to live young (e.g., cows, cats, giraffes).",
+            "Classification of Animals: Mammals: Hair Covering: Most mammals have hair (e.g., cows, giraffes; dolphins have hair when young). Reproduction: Most give birth to live young (exceptions: platypus and spiny anteater lay eggs). Milk: Young feed on mother’s milk. Habitat: Most live on land, some in water (e.g., dolphins, whales). Special Cases: Bats can fly, seals can swim.",
+            "Birds: Feathers: Help keep warm and fly. Beaks, Wings, and Legs: Each bird has one of each. Eggs: All birds lay eggs with hard shells. Flight Ability: Not all birds can fly (e.g., ostriches, penguins).",
+            "Fish: Habitat: Live in water. Scales and Fins: Most have scales and fins (e.g., salmon); some do not (e.g., catfish). Breathing: Use gills to breathe. Eggs: Most lay eggs (exceptions: guppies give birth to live young).",
+            "Reptiles: Dry Skin: Usually covered with scales. Breathing: Use lungs. Protection: Some have shells (e.g., turtles). Reproduction: Most lay eggs.",
+            "Amphibians: Habitat: Live on land and in water. Skin: Thin, no outer covering; helps in breathing. Reproduction: Most lay eggs; young develop in water.",
+            "Insects: Exoskeleton: Hard outer covering. Body Parts: Divided into head, thorax, abdomen. Legs: Three pairs. Reproduction: Most lay eggs (e.g., houseflies, butterflies).",
+            "Open-Ended Questions: Flowchart Classification: Cockroach: C (Has six legs). Chicken: A (Has feathers). Giraffe: B (Has hair). Frog: D (No hair, feathers, or six legs).",
+            "Summary of Key Points: Animals are diverse in appearance, body coverings, and reproduction. They can be classified into groups such as mammals, birds, fish, reptiles, amphibians, and insects. Each group has unique characteristics and ways of living."
+        ]
+    },
+    {
+        "id": 6,
+        "chapter": "Study Notes: Chapter 5 - Fungi and Bacteria",
+        "prompts": [
+            "Fungi: Nature and Characteristics: Fungi are a large group of living organisms that require moisture to grow. They can range from microscopic sizes, like mould and yeast, to larger forms like mushrooms. Fungi feed on other living or dead organisms by breaking down matter into simpler substances for absorption.",
+            "Reproduction: Fungi reproduce through spores, which are tiny and light, allowing them to be easily carried by the wind.",
+            "Uses and Harm: Useful Fungi: Some fungi are beneficial, such as edible mushrooms, yeast used in bread and alcohol production, moulds used in cheese making, and Penicillium mould, which produces the antibiotic penicillin. Harmful Fungi: Some fungi can cause diseases in plants and animals, like athlete’s foot and ringworm in humans. Moulds can also spoil food and other goods.",
+            "Bacteria: Nature and Characteristics: Bacteria are a large group of microorganisms found in various environments. Like fungi, they feed on other living or dead organisms. Bacteria are microorganisms and can only be seen under a microscope.",
+            "Uses and Harm: Useful Bacteria: Some bacteria are used in the production of cheese and yoghurt. Harmful Bacteria: Some bacteria can spoil food and cause illnesses like diarrhoea.",
+            "Ecological Role: Both fungi and bacteria play a crucial role as decomposers. They break down dead plants and animals into simpler substances, releasing nutrients that are absorbed by plants and act as natural fertilizers."
+        ]
+    },
+    {
+        "id": 7,
+        "chapter": "Study Notes: Chapter 6 - Exploring Materials",
+        "prompts": [
+            "What Are the Different Types of Materials? Definition: Materials are things used to make objects around us. Sources: Natural: Obtained from plants, animals, and the ground. Human-Made: Created by humans.",
+            "Examples of Materials and Their Sources: Ceramics: Clay from the ground (used for cups and plates). Fabric (Cotton): Cotton plant fibers (used for clothes and thread). Fabric (Silk): Silk from silkworms (used for clothes). Fabric (Wool): Hair from animals like sheep (used for gloves, scarves, socks). Glass: Sand and other materials (used for windowpanes, lenses, vases). Metal (e.g., Copper, Iron): From the ground (used for cars, tools, wires). Plastic: Chemicals from oil (used for containers, bottles). Rubber: Sap from rubber trees (used for balloons, gloves). Wood: Tree stems (used for boats, furniture).",
+            "What Are Some Properties of Materials? Strength: Ability to support a heavy load without breaking (e.g., steel is strong, paper is weak). Flexibility: Ability to bend without breaking (e.g., rubber band is flexible, wood is stiff). Buoyancy: Ability to float or sink in water (e.g., wood floats, metal sinks). Waterproof: Ability to not absorb water (e.g., plastic is waterproof, wool is not). Transparency: Ability to allow light to pass through (e.g., glass is transparent, iron is not).",
+            "Testing Material Properties: Strength: Try to break the material using loads or tearing. Flexibility: Try to bend the material. Buoyancy: Push the object into water and see if it sinks or floats. Waterproof: Dip the material in water to see if it absorbs water. Transparency: Shine light through the material and observe the amount of light passing through.",
+            "How Do We Choose the Right Material for an Object? Matching Properties to Uses: Nails: Made of steel because it is strong. Milk Bottles: Made of plastic because it is waterproof. Understanding Material Properties: Example: If an object needs to be strong and transparent, glass is a good choice. Different Materials for the Same Object: Example: Plates can be made from ceramics, glass, or plastic. Combining Materials: Example: Different parts of a torchlight are made from different materials to meet specific needs (e.g., metal for strength, plastic for allowing light to pass through).",
+            "Plastic Uses Based on Properties: Flexible Plastics: Used for straws and raincoats. Stiff Plastics: Used for containers and plates. Transparent Plastics: Used for goggles and lenses. Semi-Transparent Plastics: Used for sunglasses. Opaque Plastics: Used for toilet doors.",
+            "Open-Ended Questions: Robin’s Experiment: Material Properties Table: Material A: Strong, Flexible, Not Waterproof, Not Transparent. Material B: Strong, Flexible, Waterproof, Not Transparent. Material C: Strong, Not Flexible, Waterproof, Not Transparent.",
+            "Question Analysis: Part X: Most suitable material is C (needs to be strong and waterproof). Part Y: Most suitable material is B (needs to be flexible and waterproof).",
+            "Reasoning for Non-Transparency: Part X cannot be transparent: It would not provide shade from the sun if it were transparent.",
+            "Difference Between Materials A and C: Material A: Not waterproof, flexible. Material C: Waterproof, not flexible."
+        ]
+    },
+    {
+        "id": 8,
+        "chapter": "Study Notes: Chapter 7 - Life Cycles",
+        "prompts": [
+            "What is a Life Cycle? Definition: A life cycle is the series of stages that living things go through from birth to adulthood, reproduction, and eventually death. Stages: Birth, growth, development, and reproduction. Repetition: The cycle repeats as the offspring go through the same stages as their parents. Importance: Ensures the survival and continuity of species.",
+            "How are Life Cycles Similar or Different? Variation: Different animals have different life cycles with varying stages and durations. Appearance: Young animals may look similar or very different from their parents. Example: Kittens look like adult cats, while tadpoles look different from adult frogs. Duration: Life cycles can vary greatly in length (e.g., a mosquito's life cycle is a few weeks, a tortoise's can be over 20 years).",
+            "Life Cycles of Some Animals: Human Life Cycle: Stages: Egg (Fertilized): Develops into a baby inside the mother's body. Young: The baby is born and grows into a child, resembling the adult. Adult: The child grows into an adult capable of reproduction.",
+            "Chicken Life Cycle: Stages: Egg: Laid by an adult hen on land with a protective hard shell. Young (Chick): Hatches from the egg and resembles the parents. Adult: The chick grows into an adult chicken capable of reproduction.",
+            "Frog Life Cycle: Stages: Egg: Laid in water with a jelly-like covering. Tadpole: Hatches from the egg, has a tail, and breathes using gills. Adult Frog: Develops legs, loses the tail, and can live on land and in water, breathing with lungs.",
+            "Cockroach Life Cycle: Stages: Egg: Laid in a dark, safe place in an egg case. Nymph: Hatches from the eggs, looks like a smaller adult, and moults several times. Adult: Develops wings and is capable of reproduction.",
+            "Grasshopper Life Cycle: Stages: Egg: Laid in the soil. Nymph: Looks like a smaller adult and moults several times. Adult: Has wings and is capable of reproduction.",
+            "Butterfly Life Cycle: Stages: Egg: Laid on a suitable plant. Larva (Caterpillar): Hatches from the egg, eats a lot, and moults several times. Pupa: The caterpillar spins a case around itself and develops inside. Adult Butterfly: Emerges from the pupa, spreads wings, and is capable of reproduction.",
+            "Mosquito Life Cycle: Stages: Egg: Laid in still water. Larva (Wriggler): Hatches from the egg, stays near the water surface, and moults several times. Pupa: Develops inside the pupal case near the water surface. Adult Mosquito: Emerges from the pupa, spreads wings, and is capable of reproduction.",
+            "Beetle Life Cycle: Stages: Egg: Laid on leaves. Larva: Lives on plants, eats a lot, and moults several times. Pupa: Attaches to a plant, stops feeding, and develops inside the pupal case. Adult Beetle: Emerges from the pupa, spreads wings, and is capable of reproduction.",
+            "What is the Life Cycle of Most Plants? Stages: Seed, young plant, and adult plant. Seed: Needs air, water, and warmth to germinate. The root grows first, followed by the shoot. Young Plant: Develops leaves and starts making its own food. Adult Plant: Grows more leaves and roots, bears flowers, and produces fruits with seeds.",
+            "Life Cycle of a Plant: Seed: Requires air, water, and warmth to germinate. The root grows first, followed by the shoot. Young Plant: Develops leaves and begins photosynthesis. Adult Plant: Continues growing, produces flowers, and fruits that contain seeds for new plants.",
+            "Open-Ended Questions: Life Cycles Comparison: Similarity 1: Both young resemble their adult forms. Similarity 2: Both have a three-stage life cycle. Characteristics of Living Things: Characteristic 1: Living things can grow. Characteristic 2: Living things can reproduce."
+        ]
+    },
+    {
+        "id": 9,
+        "chapter": "Study Notes: Chapter 8 - Matter and Its Three States",
+        "prompts": [
+            "What is Matter? Definition: Matter is anything that has mass and occupies space. Examples: All living and non-living things are made of matter (e.g., plants, animals, rocks). Non-Matter: Things that do not have mass or occupy space are not matter (e.g., light, heat).",
+            "How Do We Measure Mass and Volume? Mass: Definition: Mass is the amount of matter in an object. Units: Measured in grams (g) or kilograms (kg). Tools: Balance: Used to measure or compare masses. Electronic Balance: Measures the mass of an object, often requiring subtraction if using a container. Example: To find the mass of an object in a container: Mass of container and object – Mass of container = Mass of object.",
+            "Volume: Definition: Volume is the amount of space an object occupies. Units: Measured in cubic centimeters (cm³), cubic meters (m³), milliliters (mL), or liters (L). Principle: An object must be displaced for another to take its place. Measurement Example: Using a measuring cylinder to find the volume of a solid by water displacement.",
+            "Is Air Matter? Properties: Air has mass and occupies space, making it matter. Examples: A deflated ball has less mass than an inflated one, showing air has mass. Air in a submerged glass prevents water from entering, showing air occupies space.",
+            "What Are the Three States of Matter and Their Properties? Solid State: Examples: Table, book, glass container. Properties: Definite shape and volume, cannot be compressed.",
+            "Finding Volume of Solids: Steps: Fill a measuring cylinder with water and record the volume (X). Lower the solid into the water and record the new volume (Y). Volume of the solid = Y - X.",
+            "Liquid State: Examples: Oil, water. Properties: No definite shape (takes the shape of its container), definite volume, cannot be compressed.",
+            "Finding Volume of Liquids: Tools: Measuring cylinders or syringes. Steps: Place the cylinder on a flat surface. Align the eye with the liquid level. Read the volume at the lowest point of the liquid curve (meniscus).",
+            "Gaseous State: Examples: Air, oxygen, carbon dioxide. Properties: No definite shape (takes the shape of its container), no definite volume (can be compressed).",
+            "Examples: Different Shapes: Balloons of different shapes can hold the same volume of air. Compression: A table tennis ball can be compressed, showing air inside takes up less space when compressed.",
+            "Identifying Solids, Liquids, and Gases: Flowchart for Identification: Matter: Has mass and occupies space. Solid: Definite shape and volume. Liquid: Definite volume, no definite shape. Gas: No definite shape or volume.",
+            "Open-Ended Questions: Flowchart Analysis: Object B: Gas. Object C Properties: Has mass and occupies space, definite volume, no definite shape. Stress Ball Analysis: State of Matter: Solid. Compression Explanation: The stress ball itself (solid) cannot be compressed, but the air inside it can be."
+        ]
+    },
+    {
+        "id": 10,
+        "chapter": "Study Notes: Chapter 9 - The Human Body as a System",
+        "prompts": [
+            "What is a System? Definition: A system is made up of two or more parts that function together. Man-Made Systems: Examples include a torch, which needs all parts (bulb, battery) to function properly. Natural Systems: Living things have natural systems made up of parts that work together to keep them alive and healthy.",
+            "What are Some Systems in the Human Body? Overview: The human body has several systems, each with specific parts and functions. These systems work together to ensure the body functions properly.",
+            "Digestive System: Parts: Mouth, gullet, stomach, small intestine, large intestine, rectum. Functions: Breaks down food into simpler substances. Absorbs digested food and water into the blood. Temporarily stores undigested food.",
+            "Respiratory System: Parts: Nose, windpipe, lungs. Functions: Takes in and removes air from the body. Exchanges gases (oxygen and carbon dioxide) between the lungs and blood.",
+            "Circulatory System: Parts: Heart, blood vessels, blood. Functions: Transports oxygen, digested food, nutrients, minerals, and water to body parts. Removes waste materials from the body. Pumps blood containing necessary substances throughout the body.",
+            "Skeletal System: Parts: Bones (skull, ribs, backbone). Functions: Supports the body and gives it shape. Protects delicate organs (e.g., heart and lungs) with the rib cage.",
+            "Muscular System: Parts: Muscles in the body. Functions: Enables movement of different body parts.",
+            "Systems Working Together: Interconnected Systems: All human systems are connected and work together to enable the body to function. Example: When walking, the respiratory system provides oxygen, the digestive system provides energy, and the circulatory system transports these throughout the body. Failure of a System: If one system fails, others may be affected and fail too.",
+            "Diagram Explanation: Digestive System: Breaks down food and absorbs nutrients. Circulatory System: Transports digested food to all body parts.",
+            "Open-Ended Questions: Match Body Parts to the Correct Body System: Skeletal System: Bones (e.g., skull, ribs). Respiratory System: Nose, windpipe, lungs. State the Functions of the Skeletal and Respiratory Systems: Skeletal System: Supports the body, gives shape, protects organs. Respiratory System: Takes in air and removes air from the body."
+        ]
+    },
+    {
+        "id": 11,
+        "chapter": "Study Notes: Chapter 10 - The Digestive System",
+        "prompts": [
+            "Why is Digestion Important? Energy Source: We eat food to obtain energy for activities like reading, walking, running, and talking. Our body systems, like the heart pumping blood, need energy to function properly. Breaking Down Food: Food must be broken down into simpler substances before it can be absorbed into the blood and carried to different parts of the body. Digestion Process: Digestion is the process by which food is broken down into these simpler substances.",
+            "How is Food Digested? Digestive System: Food is digested in the digestive system, which includes the mouth, gullet, stomach, small intestine, and large intestine. Digestive Juices: These are present in some organs of the digestive system and help break down food into simpler substances that the body can absorb into the blood.",
+            "How Do the Different Organs in the Digestive System Work Together? Mouth: Function: Digestion begins in the mouth. Teeth: Chew food into smaller pieces, increasing surface area for faster digestion. Tongue: Mixes saliva with food. Saliva makes food wet and soft for easy swallowing and contains digestive juices to start breaking down food. Process: Chewed food is rolled into small balls and swallowed.",
+            "Gullet: Function: Connects the mouth to the stomach. Muscles: Push chewed food down into the stomach.",
+            "Stomach: Function: Produces digestive juices. Muscles: Squeeze and mix food with digestive juices to break it down into simpler substances. Process: Food becomes a liquid-like substance and moves to the small intestine.",
+            "Small Intestine: Function: Produces digestive juices that further break down food. Digestion Completion: Digestion is completed here. Absorption: Digested food and nutrients pass through the walls into the blood and are carried to all parts of the body. Undigested Food: Moves into the large intestine.",
+            "Large Intestine: Function: Absorbs water and minerals from undigested food into the blood. Waste Formation: Remaining undigested food forms waste materials. Waste Removal: Waste is removed from the body through the anus.",
+            "Systems Working Together: Interconnected Systems: All organs in the digestive system must work together for successful digestion and absorption of food. Impact of Dysfunction: If one organ does not function properly, food will not be digested or absorbed correctly, affecting the entire body.",
+            "Diagram Explanation: Digestive System Flow: Start: Mouth End: Small intestine",
+            "Open-Ended Questions: Diagram Analysis: Start of Digestion: P (Mouth) End of Digestion: S (Small Intestine) Food in the Stomach (R): Food is broken down by digestive juices. Chewing and Saliva: Chewing: Breaks food into smaller pieces. Saliva: Softens food and contains digestive juices that start breaking down food into simpler substances."
+        ]
+    },
+    {
+        "id": 12,
+        "chapter": "Study Notes: Chapter 11 - Plants and Their Parts",
+        "prompts": [
+            "What are the Parts of a Plant? Living Things: Plants are living things made up of various parts. Main Parts: Roots, stem, leaves. Adult plants also have flowers and fruits.",
+            "Roots: Location: Found under the ground. Functions: Hold the plant firmly in the soil. Absorb water and minerals from the soil to help the plant grow.",
+            "Stem: Location: Grows above the ground. Functions: Supports the plant. Holds up the leaves to trap sunlight for making food. Some stems are strong and grow straight up; others are weak and climb or creep along the ground. Special Types: Underground stems (e.g., potato, ginger) store food.",
+            "Leaves: Function: Make food for the plant by trapping sunlight. Structure: Leaves have tiny openings (mainly on the underside) to allow gases to enter and exit. Made up of leaf stalk, leaf blade, and veins.",
+            "What are the Functions of Each Part of the Plant? Role of Each Part: Ensures the plant stays alive and healthy.",
+            "Summary of Basic Plant Parts: Root: Holds the plant in the soil. Absorbs water and minerals. Stem: Supports branches and leaves. Stores excess food produced by the plant. Leaf: Traps sunlight and makes food. Allows gases to go in and out.",
+            "Diagram Explanation: Leaf Parts: Veins, leaf stalk, leaf blade.",
+            "Open-Ended Questions: Difference Between Stems of Plants A and B: Plant A has a strong stem; Plant B has a weak stem. Reason for Plant B Climbing Upwards: Climbs to get more sunlight for making food (photosynthesis). Function of Tiny Openings on Leaves: Help the plants take in and give out gases."
+        ]
+    },
+    {
+        "id": 13,
+        "chapter": "Study Notes: Chapter 12 - Magnets",
+        "prompts": [
+            "What are Magnets? Definition: Magnets are objects that attract or pull objects made of metals like iron and steel. Types: Natural Magnets: Found in minerals like magnetite. Man-Made Magnets: Made from metals like iron and steel. Shapes and Sizes: Magnets can come in various shapes and sizes (e.g., ring, button, U-shaped, horseshoe, bar, rod).",
+            "What are the Characteristics of a Magnet? Attraction: Magnets attract magnetic materials (e.g., iron, steel). Non-magnetic materials (e.g., gold, aluminium, silver, copper, glass, rubber, clay, wood, plastic) are not attracted to magnets. Poles: Every magnet has two poles: North Pole (N) and South Pole (S). The attraction is strongest at the poles. Direction: A freely suspended magnet points in the North-South direction. A compass can help identify the poles of a magnet. Interaction: Like poles repel each other (N-N or S-S). Unlike poles attract each other (N-S).",
+            "How Can We Test the Strength of a Magnet? Method: Compare how many magnetic objects (e.g., thumbtacks) each magnet can attract. The one attracting more objects is stronger.",
+            "How Can We Make Magnets? Natural and Man-Made: Some magnets are natural, while others are made from magnetic materials. Making a magnetic object into a magnet is called magnetization.",
+            "Methods to Make Magnets: Stroke Method: Materials Needed: Magnet, magnetic object (e.g., iron rod), steel clips. Steps: Stroke the iron rod with one pole of the magnet several times in the same direction. Test by bringing the rod near steel clips to see if it attracts them. Strength: More strokes make the magnet stronger. Electrical Method: Materials Needed: Magnetic object (e.g., iron rod), electrical wire, batteries, steel clips. Steps: Coil the wire around the nail. Connect wire ends to the battery. Test by bringing the nail near paper clips to see if it attracts them. Strength: More wire turns or more batteries make the magnet stronger.",
+            "How are Magnets Useful to Us? Applications: Holding Objects: Fridge magnets, doorstops. Lifting Objects: Huge electromagnets in scrap yards. Direction: Compass. Storing Information: Credit cards, ATM cards, MRT fare cards. Medical: Removing magnetic objects from wounds.",
+            "Open-Ended Questions: Magnet Interaction Test: Object Likely to be a Magnet: Object C. Reason for No Reaction: Object A is non-magnetic. Labeling Poles: Pole i) North Pole. Pole ii) South Pole."
+        ]
+    },
+    {
+        "id": 14,
+        "chapter": "Study Notes: Chapter 13 - Light and Shadows",
+        "prompts": [
+            "What is Light? Definition: Light is a form of energy. Purpose: We need light to see things.",
+            "What are Some Sources of Light? Natural Sources: The Sun: Main source of light during the day. Stars: All stars, including the Sun, give off their own light. Bioluminescent Animals: Some animals, like fireflies, produce their own light. Artificial Sources: Burning Fuel: Wood and coal can be burnt to give off light. Electricity: Electric bulbs and lamps give off light when switched on.",
+            "How Does Light Help Us See? Process: We see an object when light from the object enters our eyes. This can happen if the object is a light source or if it reflects light from another source. Reflection: Example: A box is seen because it reflects light from a torch into our eyes. Light's Path: Light travels in a straight line. If obstacles block the straight path, light cannot pass through.",
+            "How Much Light Can Pass Through Different Types of Materials? Categories of Materials: Transparent: Allow most light to pass through (e.g., glass, clear plastic, air, water). Translucent: Allow some light to pass through (e.g., some plastics, cloth, thin paper, frosted glass). Opaque: Do not allow light to pass through (e.g., clay, metal, wood, rubber). Measurement: The amount of light passing through an object can be measured using a light sensor connected to a datalogger.",
+            "How are Shadows Formed? Process: Shadows form when light is blocked by an object. Shadows always form on the side opposite to the light source. The shape of the shadow is similar to the shape of the object.",
+            "How Can We Change the Shapes and Sizes of Shadows? Shape Variation: An object's shadow shape depends on the angle at which light shines on it. Size Variation: Bigger Shadows: When the object is nearer to the light source or further from the screen. Smaller Shadows: When the object is further from the light source or nearer to the screen. Sun's Position: Shadows are shorter at noon when the Sun is directly overhead and longer in the morning and evening due to the angle of sunlight.",
+            "Open-Ended Questions: Shadow Formation: Explanation: Object A, being opaque, blocks light and forms a shadow on the screen. Shadow Size Change: Change in Size: When Object A is moved to position Y, its shadow will become bigger. Material Classification: Objects Based on Light Passage: Allows Most Light to Pass Through: Object C. Allows Some Light to Pass Through: Object B. Does Not Allow Light to Pass Through: Object A."
+        ]
+    },
+    {
+        "id": 15,
+        "chapter": "Study Notes: Chapter 14 - Heat and Temperature",
+        "prompts": [
+            "What is Heat? Definition: Heat is a form of energy that makes things hot. Sensation: We cannot see heat, but we can feel it through our sense of touch.",
+            "How Does Heat Flow? Flow Direction: Heat always flows from a hotter place or object to a colder one until they reach the same temperature. Examples: Cooling: A glass of warm water cools down as heat flows to the surroundings. Heating: A pot of tap water heats up as it gains heat from the fire.",
+            "What are Some Sources of Heat? Natural Source: The Sun keeps the Earth warm. Burning Fuels: Wood, coal, oil, and natural gas produce heat. Electrical Appliances: Examples include electric irons, ovens, hair dryers, rice cookers, toasters, and stoves. Light Sources: Candles and light bulbs also produce heat.",
+            "What is the Difference Between Heat and Temperature? Heat: A form of energy that makes things hot. Temperature: A measurement of how hot or cold something is. Measurement: Thermometers: Used to measure temperature accurately. Types of Thermometers: Clinical Thermometer: Measures body temperature. Laboratory Thermometer: Measures temperature of objects and substances in experiments. Unit: Temperature is measured in degrees Celsius (°C).",
+            "What are Some Effects of Heat Gain and Heat Loss? Temperature Change: Heat Gain: Increases the temperature of an object. Heat Loss: Decreases the temperature of an object. Changes in States of Matter: Examples: Ice (solid) melts to water (liquid). Water boils to become water vapor (gas). Solid wax melts to liquid wax.",
+            "How Do We Use the Knowledge of Expansion and Contraction in Our Daily Lives? Thermometers: Contain a liquid (like mercury or alcohol) that expands when heated and contracts when cooled. Opening Bottle Lids: Heating the lid expands it, making it easier to open. Precautions: Overhead Cables: Hung loosely to prevent snapping when they contract in cold weather. Railway Tracks: Have gaps to prevent buckling when the metal expands on hot days.",
+            "What are Good and Poor Conductors of Heat? Good Conductors: Materials that allow heat to flow through them easily (e.g., metals like steel and nickel). Uses: Making cooking utensils to quickly transfer heat to food. Poor Conductors: Materials that do not allow heat to flow through them easily (e.g., rubber, air, plastic, wood, fabrics like nylon). Uses: Making winter clothing to trap heat, and containers to keep food warm or cold.",
+            "Open-Ended Questions: Fitting a Metal Ball into a Container: Solution: Heat the metal container. Explanation: Heating the container makes it expand, increasing its size so the ball can fit inside."
+        ]
+    }
